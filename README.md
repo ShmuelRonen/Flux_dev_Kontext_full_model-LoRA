@@ -7,6 +7,9 @@ An advanced AI-powered image editing application built with FLUX Kontext (Full 3
 ![CUDA](https://img.shields.io/badge/CUDA-11.8%2B-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+<img width="1658" height="1809" alt="image" src="https://github.com/user-attachments/assets/9c73d450-8e31-4423-b8c4-8ce31122b30c" />
+
+
 ## ✨ Features
 
 ### 🧠 Smart Reference Mode
