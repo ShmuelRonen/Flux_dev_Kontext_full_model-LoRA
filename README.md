@@ -33,7 +33,7 @@ Automatically detects transformation type from your prompt and applies the appro
 
 ### Prerequisites
 - **Python**: 3.10+ 
-- **GPU**: NVIDIA GPU with 8GB+ VRAM (recommended)
+- **GPU**: NVIDIA GPU with 24GB+ VRAM (recommended)
 - **RAM**: 24GB+ system RAM
 - **Storage**: 64GB+ free space for model downloads
 - **CUDA**: 12.4 (newest), 12.1, 11.8, or CPU-only support
