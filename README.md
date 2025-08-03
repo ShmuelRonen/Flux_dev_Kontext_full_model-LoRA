@@ -96,7 +96,7 @@ python app.py
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/flux-kontext-lora-studio.git
+git clone https://github.com/ShmuelRonen/flux-kontext-lora-studio.git
 cd flux-kontext-lora-studio
 ```
 
