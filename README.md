@@ -1,6 +1,6 @@
 # 🎨 FLUX Kontext + LoRA Studio
 
-An advanced AI-powered image editing application built with FLUX Kontext diffusion model, featuring intelligent reference modes and LoRA style support.
+An advanced AI-powered image editing application built with FLUX Kontext (Full 32GB) diffusion model for best resaults, featuring intelligent reference modes and LoRA style support.
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
